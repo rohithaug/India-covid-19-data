@@ -7,21 +7,13 @@ https://api.covid19india.org/ (Thanks to the respective developers).
 
 1. [read_data.py](read_data.py) extracts the covid-19 data from the json file and saves it in a SQLite database 'covid_cases.sqlite'.
 
-    Output:\n
-    Retrieving https://api.covid19india.org/state_district_wise.json
-    Data Retrieved.
-
-    This shows your code was successfull extracting the covid data from the json file.
+    Output: "Data Retrieved" shows that the code was successfull extracting the covid data from the json file.
 
 2. [read_zones.py](read_zones.py) extracts the Zone of each district and updates the data to the SQLite database 'covid_cases.sqlite'.
     Both these codes models the data so that it takes minimal space i.e. no replica of data is saved in the database,
     for example, States, Districts, Zones, etc.
 
-    Output:\n 
-    Retrieving https://api.covid19india.org/zones.json
-    Updated Zone data.
-
-    This shows your code was successfull extracting and updating the databses with the zone data of each district from the json file.
+    Output: "Updated Zone data" shows that the code was successfull extracting and updating the databses with the zone data of each district from the json file.
 
 These codes collects data directly from the link, if required it can be modified to obtain data from json file stored offline.
 
