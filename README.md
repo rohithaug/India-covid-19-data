@@ -42,7 +42,7 @@ If you require, you can alter the find_data.py to visualize the data as per your
     to visualize the data using Excel or any other suitable tools as per your requirement. I used the data in Tableau software
     to create a sample visualization. A few snips are provided in the visualization sample folder.
 
-![](visualization_sample/sample_1.jpg)
+![](visualization_sample/sample_4.jpg)
     
 Suggestions and comments are welcome!
 
