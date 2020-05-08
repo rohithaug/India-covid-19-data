@@ -36,7 +36,11 @@ You can use that as well to visualize the data using Excel or any other suitable
 provided. 
 
 ![](visualization_sample/sample_4.jpg)
-    
+
+You can download and reuse the codes as per your requirements, but if your publishing or sharing the work please provide the reference
+link as:
+**https://github.com/rohith-s-p/INDIA-COVID-19-DATA**
+
 Suggestions and comments are welcome!
 
 --ROHITH S P
