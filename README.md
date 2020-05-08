@@ -38,8 +38,11 @@ want to update the recent data, run read_data.py and read_zones.py files first a
 
 If you require, you can alter the find_data.py to visualize the data as per your requirement.
 
-4. I have also provided the file extract_data.py which you can use to save the data as a .csv file. You can use that as well
-    to visualize the data using Excel or any suitable tools as per your requirement.
+4. I have also provided the extract_data.py file which you can use to save the data as a .csv file. You can use that as well
+    to visualize the data using Excel or any other suitable tools as per your requirement. I used the data in Tableau software
+    to create a sample visualization. A few snips are provided in the visualization sample folder.
+
+![](visualization_sample/sample_1.jpg)
     
 Suggestions and comments are welcome!
 
