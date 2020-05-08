@@ -25,7 +25,7 @@ https://api.covid19india.org/ (Thanks to the respective developers).
 
 These codes collects data directly from the link, if required it can be modified to obtain data from json file stored offline.
 
-DB Browser (SQLite) or any other SQL browser can be used to view the database '[covid_cases.sqlite](covid_cases.sqlite)'.
+Download the DB Browser (SQLite) to view the database '[covid_cases.sqlite](covid_cases.sqlite)'.
 You can download the brower from:
 http://sqlitebrowser.org/
 
@@ -37,9 +37,10 @@ want to update the recent data, run read_data.py and read_zones.py files first a
 
 If you require, you can alter the [find_data.py](find_data.py) to visualize the data as per your requirement.
 
-4. I have also provided the [extract_data.py](extract_data.py) file which you can use to save the data as a .csv file. You can use that 
-as well to visualize the data using Excel or any other suitable tools as per your requirement. I used the data in Tableau software     
-to create a [sample visualization](visualization_sample). A few sample snipets are provided.
+4. I have also provided the [extract_data.py](extract_data.py) file which you can use to extract and save the data as a .csv file. 
+You can use that as well to visualize the data using Excel or any other suitable tools as per your requirement. I used the data in
+[Tableau software](https://www.tableau.com/) to create a [sample visualization](visualization_sample). A few sample snipets are
+provided. 
 
 ![](visualization_sample/sample_4.jpg)
     
