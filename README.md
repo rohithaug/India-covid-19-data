@@ -33,7 +33,7 @@ If you require, you can alter the [find_data.py](find_data.py) to visualize the 
 4. I have also provided the [extract_data.py](extract_data.py) file which you can use to extract and save the data as a .csv file. 
 You can use that as well to visualize the data using Excel or any other suitable tools as per your requirement. I used the data in
 [Tableau software](https://www.tableau.com/) to create a sample visualization. A few [sample snipets](visualization_sample) are
-provided. 
+provided (Data as of 8th May 2020 - IST 05:00 P.M.). 
 
 ![](visualization_sample/sample_4.jpg)
 
