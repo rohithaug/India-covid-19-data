@@ -35,7 +35,9 @@ You can use that as well to visualize the data using Excel or any other suitable
 [Tableau software](https://www.tableau.com/) to create a sample visualization. The [Tableau Workbook](visualize_covid_data.twbx) and a
 few [sample snipets](visualization) are provided (Data as of 8th May 2020 - IST 05:00 P.M.)
 
-![](visualization/sample_4.jpg)
+<p align="center">
+  ![](visualization/sample_4.jpg)
+</p>
 
 You can download and reuse the codes as per your requirements, but if your publishing or sharing the work please provide the reference
 link as:
