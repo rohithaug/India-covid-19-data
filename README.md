@@ -36,7 +36,7 @@ You can use that as well to visualize the data using Excel or any other suitable
 few [sample snipets](visualization) are provided (Data as of 8th May 2020 - IST 05:00 P.M.)
 
 <p align="center">
-  ![](visualization/sample_4.jpg)
+  <img src="visualization/sample_4.jpg">
 </p>
 
 You can download and reuse the codes as per your requirements, but if your publishing or sharing the work please provide the reference
