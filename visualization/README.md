@@ -2,20 +2,30 @@ Download the Tableau Packaged Workbook, [visualize_covid_data.twbx](visualize_co
 
 **SAMPLE_1**
 
-![](sample_1.jpg)
+<p align="center">
+  <img src="sample_1.jpg">
+</p>
 
 **SAMPLE_2**
 
-![](sample_2.jpg)
+<p align="center">
+  <img src="sample_2.jpg">
+</p>
 
 **SAMPLE_3**
 
-![](sample_3.jpg)
+<p align="center">
+  <img src="sample_3.jpg">
+</p>
 
 **SAMPLE_4**
 
-![](sample_4.jpg)
+<p align="center">
+  <img src="sample_4.jpg">
+</p>
 
 **SAMPLE_5**
 
-![](sample_5.jpg)
+<p align="center">
+  <img src="sample_5.jpg">
+</p>
