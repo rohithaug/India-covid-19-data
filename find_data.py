@@ -1,3 +1,7 @@
+"""
+@author: rohith
+"""
+
 import sqlite3
 
 conn = sqlite3.connect('covid_cases.sqlite')
