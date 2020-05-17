@@ -22,7 +22,7 @@ Download the **DB Browser (SQLite)** to view the database '[covid_cases.sqlite](
 You can download the brower from:
 http://sqlitebrowser.org/
 
-3. Run [find_data.py](find_data.py) to look through the database and view the COVID-19 cases in the country, state-wise and ditrict-wise. The code will run you through the database as per your requirement.
+3. Run [find_data.py](find_data.py) to look through the database and view the COVID-19 cases in the country, state-wise and district-wise. The code will run through the database as per the user requirement.
 
 If you just want to look through the data, you can download the '[covid_cases.sqlite](covid_cases.sqlite)' and directly run the
 [find_data.py](find_data.py) file. But the provided database will contain only COVID19 data until 8th May 2020 - IST 05:00 P.M. If you
