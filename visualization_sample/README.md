@@ -1,4 +1,4 @@
-Download the Tableau Packaged Workbook, visualize_covid_data.twbx and try it out using Tableau Desktop or [Tableau Reader](https://www.tableau.com/en-in/products/reader) to visualize the data. The following are a few sample screenshots:
+Download the Tableau Packaged Workbook, [visualize_covid_data.twbx](visualize_covid_data.twbx) and try it out using Tableau Desktop or for free using the [Tableau Reader](https://www.tableau.com/en-in/products/reader) to visualize the data. The following are a few sample screenshots:
 
 **SAMPLE_1**
 
