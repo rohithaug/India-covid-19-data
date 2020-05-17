@@ -1,6 +1,6 @@
 **INDIA-COVID-19-DATA**
 
-***Extracting and visualizing the covid-19 data of India using Python.***
+***Extracting and visualizing the covid-19 data of India using Python and Tableau.***
 
 This is a set of code you can use to extract and visualize the covid data from the json file provided at:
 https://api.covid19india.org/ (Thanks to the respective developers).
