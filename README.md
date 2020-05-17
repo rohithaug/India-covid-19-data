@@ -39,6 +39,6 @@ provided (Data as of 8th May 2020 - IST 05:00 P.M.).
 
 You can download and reuse the codes as per your requirements, but if your publishing or sharing the work please provide the reference
 link as:
-**https://github.com/rohith-s-p/INDIA-COVID-19-DATA**
+**https://github.com/rohith-s-p/india-covid-19-data**
 
 --ROHITH S P
