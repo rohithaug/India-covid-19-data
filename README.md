@@ -43,4 +43,4 @@ You can download and reuse the codes as per your requirements, but if your publi
 link as:
 **https://github.com/rohith-s-p/india-covid-19-data**
 
---ROHITH S P
+-- [ROHITH S P](https://www.linkedin.com/in/rohithsp/)
