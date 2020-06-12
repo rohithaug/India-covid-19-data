@@ -41,6 +41,6 @@ few [sample snipets](visualization) are provided (Data as of 8th May 2020 - IST 
 
 You can download and reuse the codes as per your requirements, but if your publishing or sharing the work please provide the reference
 link as:
-**https://github.com/rohith-s-p/india-covid-19-data**
+**https://github.com/rohithaug/india-covid-19-data**
 
 -- [ROHITH S P](https://www.linkedin.com/in/rohithsp/)
